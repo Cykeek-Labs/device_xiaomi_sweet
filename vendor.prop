@@ -75,6 +75,8 @@ persist.vendor.radio.rat_on=combine
 
 persist.vendor.radio.force_on_dc=true
 
+persist.vendor.radio.add_power_save=1
+
 persist.sys.strictmode.disable=true
 
 persist.vendor.radio.dynamic_sar=false
